@@ -1,0 +1,390 @@
+@media (max-width: 1279px) {
+    header {
+        background-repeat: repeat;
+    }
+
+    .first-section {
+        height: 1075px;
+        background-repeat: repeat;
+    }
+
+    .first-section-div {
+        margin-left: 154px;
+        margin-top: 22.5px;
+    }
+
+    .btn-parI {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .dog {
+        width: 569px;
+        height: 610px;
+        margin-left: calc(50% - 569px/2 + 70px);
+        margin-top: 130px;
+    }
+
+    .second-section-div {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-left: 169px;
+        margin-bottom: 45px;
+    }
+
+    .h31 {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 22.5px;
+    }
+
+    .paragrahg_II {
+        font-size: 15px;
+        width: 430px;
+    }
+
+    .about-pets {
+        margin: 55px auto;
+        padding-left: 36px;
+    }
+
+    .h32 {
+        padding-top: 81px;
+        letter-spacing: 2.1px;
+    }
+
+    .card:nth-child(4) {
+        display: none;
+    }
+
+    .card:nth-child(3) {
+        margin-right: 0;
+        margin-left: 40px;
+    }
+
+    .arrow:nth-child(1) {
+        margin-right: 12px;
+    }
+
+    .arrow {
+        margin-left: 12px;
+    }
+
+    .donation {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .cont {
+        margin-left: 194px;
+        margin-right: 194px;
+    }
+
+    .paragragh_III {
+        font-size: 12px;
+        line-height: 18px;
+        padding-bottom: 0;
+    }
+
+    .h34 {
+        padding-top: 75px;
+    }
+
+    h5 {
+        letter-spacing: 0.9px;
+        margin-top: 19px;
+    }
+
+    .cred-card {
+        margin-bottom: 21px;
+    }
+
+    .don-dog {
+        margin: 60px 30px 100px 131px;
+        width: 505px;
+        height: 261px;
+    }
+
+    .contacts {
+        margin-right: 0;
+        margin-left: 64px;
+    }
+
+    .location {        
+        margin-right: auto;
+        margin-left: 55px;
+    }
+
+    .footer-dog {
+        margin-top: 93.5px;
+        margin-left: 235px;
+    }
+
+    .white {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 790px) {
+    nav {
+        margin-left: 0;
+    }
+    
+    .header-container {
+        padding: 10px 0 0 30px;
+    }
+}
+
+@media (max-width: 766px) {
+    header {
+        background-image: url('../../assets/images/start-screen-gradient-background(3).jpg');
+    }
+
+    .header-container {
+        padding: 10px 0 0 10px;
+    }
+
+    nav {
+        margin-left: auto;
+        margin-right: 53px;
+        margin-top: 39px;
+    }
+
+    ul {
+        /* display: none; */
+        position: fixed;
+        background-color: #292929;
+        width: 320px;
+        height: 823px;
+        z-index: 2;
+        right: -320px;
+        top: 0;
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 0;
+        padding-top: 100px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    li {
+        display: block;
+        flex-wrap: wrap;
+        width: 243px;
+        text-align: center;
+        margin: 32.5px 45px;
+    }
+
+    .li {
+        font-size: 32px;
+    }
+
+    .menu {
+        display: flex;
+    }
+
+    .first-section {
+        background-image: url('../../assets/images/start-screen-gradient-background(3).jpg');
+        height: 732.5px;
+    }
+
+    .first-section-div {
+        margin-left: 10px;
+        margin-top: 37.5px;
+        width: 300px;
+    }
+
+    h2 {
+        font-size: 25px;
+        line-height: 32.5px;
+        text-align: center;
+        letter-spacing: 0.06em;
+    }
+
+    .paragragh_I {
+        text-align: center;
+    }
+
+    .dog {
+        width: 260px;
+        height: 271.77px;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+
+    .second-section-div {
+        margin-left: 25px;
+        width: 270px;
+        margin-top: 42px;
+    }
+
+    .h31,
+    .h32,
+    .h33,
+    .h34 {
+        font-size: 25px;
+        text-align: center;
+        letter-spacing: 0.06em;
+        line-height: 130%;
+    }
+
+    .paragrahg_II {
+        width: 270px;
+        text-align: justify;
+    }
+
+    .about-pets {
+        width: 260px;
+        height: 353.6px;
+        padding-left: 0;
+        margin-top: 15px;
+        margin-bottom: 0;
+    }
+
+    .h32 {
+        padding-top: 38px;
+        margin-bottom: 40px;
+    }
+
+    .card:nth-child(3) {
+        display: none;
+    }
+
+    .btn-left {
+        top: 2220px;
+        position: absolute;
+    }
+
+    .btn-left:nth-child(1) {
+        left: 70px;
+    }
+    
+    .btn-left-two {
+        left: 170px;
+    }
+
+    .btn-o {
+        margin-top: 92px;
+        padding-bottom: 42px;
+    }
+
+    .h33 {
+        margin-top: 42px;
+        margin-bottom: 41px;
+    }
+    
+    .bloc-help {
+        height: 555px;
+        margin-bottom: 41px;
+        column-gap: 30px;
+    }
+
+    .pet-help img {
+        width: 50px;
+        height: 50px;
+    }
+
+    h4 {
+        font-size: 15px;
+        line-height: 16.5px;
+        margin-top: 20px;
+    }
+
+    .h34 {
+        margin-top: 0;
+        padding-top: 42.5px;
+    }
+
+    .cont {
+        width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h5 {
+        letter-spacing: 0;
+        margin-top: 23px;
+        text-align: center;
+    }
+
+    .cred-card {
+        margin-top: 25px;
+        height: 42px;
+        width: 280px;
+        font-size: 15px;
+        letter-spacing: 0.9px;
+    }
+
+    .paragragh_III {
+        text-align: justify;
+    }
+
+    .don-dog {
+        width: 260px;
+        height: 135.2px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 41px;
+        margin-bottom: 42px;
+    }
+    
+    .contacts {
+        margin-left: 20px;
+    }
+
+    .location {
+        margin-left: 10px;
+    }
+
+    .white {
+        font-size: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+        letter-spacing: 1.5px;
+        line-height: 32.5px;
+    }
+
+    .white2 {
+        margin-top: 44px;
+        width: 270px;
+        margin-left: 15px;
+        margin-bottom: 36px;
+    }
+
+    .on1 {
+        margin-left: 13.75px;
+        margin-top: 2.5px;
+        letter-spacing: 1px;
+    }
+
+    .on2 {
+        margin-left: 20px;
+    }
+
+    .loc {
+        margin-top: 1.5px;
+    }
+
+    .locy {
+        letter-spacing: 1.2px;
+    }
+
+    .loc2 {
+        margin-bottom: 40px;
+    }
+
+    .loca {
+        margin-top: 1px;
+    }
+
+    .footer-dog {
+        margin-top: 70px;
+        width: 260px;
+        height: 269px;
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 545px) {
+    
+}
