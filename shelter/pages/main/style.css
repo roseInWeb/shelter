@@ -263,6 +263,7 @@ h2 {
 .btn-parI {
       margin-top: 42px;
       letter-spacing: 1px;
+      width: 207px;
 }
 
 .dog {
@@ -373,6 +374,7 @@ h3 {
       letter-spacing: 1.06px;
       margin: auto;      
       padding: 14px 44px;
+      width: 266px;
 }
 
 .pdp {
@@ -447,7 +449,8 @@ h3 {
       justify-content: space-between;
 }
 
-button {
+button,
+.btn-span {
       display: flex;
       flex-direction: column;
       align-items: center;
